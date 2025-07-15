@@ -7,7 +7,10 @@ First, run the development server:
 ```bash
 npm run dev
 # or
-yarn dev
+yarn devgit add .
+git commit -m "Replace content with $wtf? layout"
+git push origin main
+
 # or
 pnpm dev
 # or
